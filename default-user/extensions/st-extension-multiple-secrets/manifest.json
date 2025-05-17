@@ -1,0 +1,11 @@
+{
+    "display_name": "Multiple Secrets",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "@zhongerxll@kakadragonn@咔咔龙",
+    "version": "1.0.0",
+    "homePage": "https://github.com/zhongerxll/st-extension-multiple-secret"
+}

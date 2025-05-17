@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "name": "性爱总力战快速回复集",
+    "disableSend": false,
+    "placeBeforeInput": false,
+    "injectInput": false,
+    "color": "rgba(0, 0, 0, 0)",
+    "onlyBorderColor": false,
+    "qrList": [
+        {
+            "id": 2,
+            "showLabel": false,
+            "label": "派个女学生",
+            "title": "",
+            "message": "<Request: 老师联系了一位女学生进入{{user}}的房间。\n省略老师联系女学生的过程和方法，仅详细描写这位女学生进入房间后看到的景象，尤其是在房间里的其他人的状态和她的反应，如果房间里只有{{user}}，要写这位新来的女学生的开场白>\n有一位女学生即将进入这个房间。<sensei use momotalk>",
+            "contextList": [],
+            "preventAutoExecute": true,
+            "isHidden": false,
+            "executeOnStartup": false,
+            "executeOnUser": false,
+            "executeOnAi": false,
+            "executeOnChatChange": false,
+            "executeOnGroupMemberDraft": false,
+            "executeOnNewChat": false,
+            "automationId": ""
+        },
+        {
+            "id": 4,
+            "showLabel": false,
+            "label": "让学生离开",
+            "title": "",
+            "message": "<Request: {{user}}允许房间里的1位已经进行过性爱战的女学生离开房间\n详细描写这位女学生现在的身体状况，比如身体上的液体，阴道中残余的精液等。女学生会在穿好衣服后离开。\n她离开后需要以她的视角，写她跟老师报告性爱过程，报告必须详细到具体行动和感受。>\n{{user}}示意她可以离开这个房间了。",
+            "contextList": [],
+            "preventAutoExecute": true,
+            "isHidden": false,
+            "executeOnStartup": false,
+            "executeOnUser": false,
+            "executeOnAi": false,
+            "executeOnChatChange": false,
+            "executeOnGroupMemberDraft": false,
+            "executeOnNewChat": false,
+            "automationId": ""
+        },
+        {
+            "id": 8,
+            "showLabel": false,
+            "label": "询问战术",
+            "title": "",
+            "message": "<Request: {{user}}向女学生询问她从老师那里得到的第1回合的性爱战术。\n女学生会以符合她性格的说法向{{user}}介绍这个战术>\n\"第1回合，你打算用什么方法让我射精?\"{{user}}提问道。",
+            "contextList": [],
+            "preventAutoExecute": true,
+            "isHidden": false,
+            "executeOnStartup": false,
+            "executeOnUser": false,
+            "executeOnAi": false,
+            "executeOnChatChange": false,
+            "executeOnGroupMemberDraft": false,
+            "executeOnNewChat": false,
+            "automationId": ""
+        }
+    ],
+    "idIndex": 8
+}

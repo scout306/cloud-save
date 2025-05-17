@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "name": "流量破坏者2.0",
+    "disableSend": false,
+    "placeBeforeInput": false,
+    "injectInput": false,
+    "color": "rgba(0, 0, 0, 0)",
+    "onlyBorderColor": false,
+    "qrList": [
+        {
+            "id": 2,
+            "showLabel": false,
+            "label": "发送消息",
+            "title": "",
+            "message": "/stop |\n/profile openai grok-beta - Virgo_Preset_Series_A_1.3_cot_grok |\n/model grok-beta |\n/gen lock=on |\n/setvar key=opinion |\n/profile custom grok-3 - Virgo_Preset_Series_A_1.3_cot_grok\n/wait 2000 |\n/trigger |",
+            "contextList": [],
+            "preventAutoExecute": true,
+            "isHidden": true,
+            "executeOnStartup": false,
+            "executeOnUser": true,
+            "executeOnAi": false,
+            "executeOnChatChange": false,
+            "executeOnGroupMemberDraft": false,
+            "executeOnNewChat": false,
+            "automationId": ""
+        }
+    ],
+    "idIndex": 2
+}

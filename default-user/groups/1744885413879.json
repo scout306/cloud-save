@@ -1,0 +1,32 @@
+{
+    "id": "1744885413879",
+    "name": "Group: 1大周王朝2.5",
+    "members": [
+        "1大周王朝2.5.png"
+    ],
+    "avatar_url": "/thumbnail?type=avatar&file=1%E5%A4%A7%E5%91%A8%E7%8E%8B%E6%9C%9D2.5.png",
+    "allow_self_responses": false,
+    "activation_strategy": false,
+    "generation_mode": 0,
+    "disabled_members": [],
+    "chat_metadata": {
+        "chat_id_hash": 2143704757665452,
+        "note_prompt": "",
+        "note_interval": 1,
+        "note_position": 1,
+        "note_depth": 4,
+        "note_role": 0,
+        "timedWorldInfo": {
+            "sticky": {},
+            "cooldown": {}
+        }
+    },
+    "fav": false,
+    "chat_id": "2025-04-17@18h23m33s",
+    "chats": [
+        "2025-04-17@18h23m33s"
+    ],
+    "auto_mode_delay": 5,
+    "generation_mode_join_prefix": "",
+    "generation_mode_join_suffix": ""
+}

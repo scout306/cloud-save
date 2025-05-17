@@ -1,0 +1,38 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [],
+            "keysecondary": [],
+            "comment": "",
+            "content": "<图片生成>ai请你在回复的最后加入一个图片场景描述,格式为“image:”后面加上一些英文关键字来描写场景,并使用{}符号包裹关键字,单独一行.\n如果当前场景有私密身体部位暴露,请添加前缀“nsfw ,”.始终使用逗号分隔条目.\n关键字示例如下:\n当前场景中的角色(例如:1boy、1girl、1boy and 1girl、2boys,little_girl,loli,sisters 等).\n人物的身份(例如:nun,nurse,student,teacher,maid,doctor,ninja,succubus,)\n人物的头发(例如:white hair,black hair,high ponytail,ahoge,short hair,long hair,twintails,)\n人物的眼睛(例如:blue eyes,crying with eyes open,heart-shaped eyes,jitome,closed eyes,beautiful_detailed_eyes,)\n人物的胸部(例如:flat chest,big breasts,huge breasts,nipples,unbuttoned clothes,)\n人物的服饰(例如:japanese_clothes,china_dress,domineering,police_uniform,school_uniform,sailor,gothic_lolita,swimsuit,wet_swimsuit,blouse,wardrobe_error,summer_dress,skirt_lift,barefoot,glasses,Blindfold,hat,)\n人物此时的表情动作(例如:smile,kind_smile,;d,sad,crying,sigh,disgust,angry,sleepy,standing,bent_over,climbing,swimming,sleeping,arms_behind_back,outstretched_arm,grabbing_from_behind,等.).\n人物所在场景(例如:waterpark,zoo,swimming pool,playground,library,alley,bathroom,classroom,bed,table,school_desk,bed_sheet,)\n镜头角度(例如:landscape,panorama,full_shot,upper_body,bust,lower_body,close-up,face_focus,front view,from_side,from behind,looking_at_viewer,looking_back,等).\n人物此时的位置(例如: diningroom, gym, bedroom, indoors, home, beach, 等).\n当前时间,morning, noon or night, emphasize the lighting situation..\n关键字的示例如下所示:\nimage:{1girl, sitting_on_bed, kind_smile, reading_book, white hair,from_side, smile,looking_at_book, white_lace_shirt, black_pencil_skirt, morning, upper_body, comfort, sofa, bed, desk, laptop, guitar}</图片生成>",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 4,
+            "disable": false,
+            "excludeRecursion": true,
+            "preventRecursion": true,
+            "delayUntilRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 1,
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": 0,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "displayIndex": 0
+        }
+    }
+}

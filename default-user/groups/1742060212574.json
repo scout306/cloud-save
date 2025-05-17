@@ -1,0 +1,38 @@
+{
+    "id": "1742060212574",
+    "name": "Group: 媚男世界",
+    "members": [
+        "媚男世界.png"
+    ],
+    "avatar_url": "/thumbnail?type=avatar&file=%E5%AA%9A%E7%94%B7%E4%B8%96%E7%95%8C.png",
+    "allow_self_responses": false,
+    "activation_strategy": false,
+    "generation_mode": 0,
+    "disabled_members": [],
+    "chat_metadata": {
+        "chat_id_hash": 4744304956336371,
+        "note_prompt": "",
+        "note_interval": 1,
+        "note_position": 1,
+        "note_depth": 4,
+        "note_role": 0,
+        "timedWorldInfo": {
+            "sticky": {},
+            "cooldown": {}
+        },
+        "tainted": true
+    },
+    "fav": false,
+    "chat_id": "2025-03-16@01h36m52s",
+    "chats": [
+        "2025-03-16@01h36m52s"
+    ],
+    "auto_mode_delay": 5,
+    "generation_mode_join_prefix": "",
+    "generation_mode_join_suffix": "",
+    "date_added": 0,
+    "create_date": "1970-1-1 @00h 00m 00s 00ms",
+    "date_last_chat": 1744276428361,
+    "chat_size": 124440,
+    "past_metadata": {}
+}
