@@ -11,7 +11,7 @@
     "bot_mes_blur_tint_color": "rgba(30, 30, 30, 0.9)",
     "shadow_color": "rgba(0, 0, 0, 1)",
     "shadow_width": 2,
-    "border_color": "rgba(0, 0, 0, 1)",
+    "border_color": "rgba(0, 0, 0, 0.5)",
     "font_scale": 1,
     "fast_ui_mode": true,
     "waifuMode": false,
@@ -26,11 +26,14 @@
     "hideChatAvatars_enabled": false,
     "message_token_count_enabled": false,
     "expand_message_actions": false,
-    "enableZenSliders": "",
-    "enableLabMode": "",
+    "enableZenSliders": false,
+    "enableLabMode": false,
     "hotswap_enabled": true,
     "custom_css": "",
-    "bogus_folders": true,
+    "bogus_folders": false,
+    "zoomed_avatar_magnification": false,
     "reduced_motion": false,
-    "compact_input_area": true
+    "compact_input_area": true,
+    "show_swipe_num_all_messages": false,
+    "click_to_edit": false
 }
