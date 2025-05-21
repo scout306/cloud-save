@@ -3,17 +3,15 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
-        "WINavOpened": "true",
-        "AlertWI_性癖大世界.png": "true",
-        "AlertRegex_性癖大世界.png": "true"
+        "WINavOpened": "true"
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "性癖大世界.png",
+    "active_character": "月咏澪.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -522,9 +520,7 @@
                 "maxDepth": null
             }
         ],
-        "character_allowed_regex": [
-            "性癖大世界.png"
-        ],
+        "character_allowed_regex": [],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
@@ -738,42 +734,6 @@
                     }
                 ]
             }
-        },
-        "TavernHelper": {
-            "enabled_extension": true,
-            "render": {
-                "render_enabled": true,
-                "tampermonkey_compatibility": false,
-                "render_depth": 0,
-                "render_optimize": false
-            },
-            "script": {
-                "global_script_enabled": true,
-                "scriptsRepository": [],
-                "characters_with_scripts": []
-            },
-            "audio": {
-                "audio_enabled": true,
-                "bgm_enabled": true,
-                "ambient_enabled": true,
-                "bgm_mode": "repeat",
-                "bgm_muted": false,
-                "bgm_volume": 50,
-                "bgm_selected": null,
-                "bgm_current_time": 0,
-                "ambient_mode": "stop",
-                "ambient_muted": false,
-                "ambient_volume": 50,
-                "ambient_selected": null,
-                "ambient_current_time": 0,
-                "audio_cooldown": 0
-            },
-            "listener": {
-                "enabled": false,
-                "enable_echo": true,
-                "url": "http://localhost:6621",
-                "duration": 1000
-            }
         }
     },
     "tags": [
@@ -788,8 +748,7 @@
             "1345561466591"
         ],
         "null": [],
-        "月咏澪.png": [],
-        "性癖大世界.png": []
+        "月咏澪.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
