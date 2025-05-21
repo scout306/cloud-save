@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
@@ -2172,7 +2172,7 @@
                     },
                     {
                         "identifier": "e56b7f0b-83fa-45f0-92c5-1a41d58c176b",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "81ef5c84-6ecd-4240-b0c0-3e8c49c87cd7",
@@ -2180,7 +2180,7 @@
                     },
                     {
                         "identifier": "ca0d6abc-b6f6-4323-89c9-d9babd6d4e75",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "03e9c451-c02d-4ffc-982c-7c85579edfdd",
@@ -2264,7 +2264,7 @@
                     },
                     {
                         "identifier": "6ce24c35-28aa-49b5-a264-b6f74ceba30b",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "08406ba1-fa25-4831-b6dc-4c7eb9a8c43e",
@@ -2420,7 +2420,7 @@
                     },
                     {
                         "identifier": "ffcf7f81-5185-47df-997f-9cbbeedd0872",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "0196cf05-d08a-48f8-b18e-e811c6903df4",
