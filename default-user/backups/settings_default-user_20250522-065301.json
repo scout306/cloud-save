@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
@@ -17,7 +17,7 @@
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "璇子.png",
+    "active_character": "月咏澪.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -2420,7 +2420,7 @@
                     },
                     {
                         "identifier": "ffcf7f81-5185-47df-997f-9cbbeedd0872",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "0196cf05-d08a-48f8-b18e-e811c6903df4",
