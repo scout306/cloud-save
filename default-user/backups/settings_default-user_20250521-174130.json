@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
@@ -11,12 +11,11 @@
         "AlertWI_性癖大世界.png": "true",
         "AlertRegex_性癖大世界.png": "true",
         "AlertWI_超级神壕系统.png": "true",
-        "AlertRegex_超级神壕系统.png": "true",
-        "AlertWI_性开放·自由都市.png": "true"
+        "AlertRegex_超级神壕系统.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "性开放·自由都市.png",
+    "active_character": "我的妹妹不可能是别人的飞机杯.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -785,16 +784,6 @@
             "id": "1345561466591",
             "name": "ST Default",
             "color": "rgba(108, 32, 32, 1)"
-        },
-        {
-            "id": "3fda31d1-7502-495c-9466-a5b2bfb56d2a",
-            "name": "现代",
-            "folder_type": "NONE",
-            "filter_state": "UNDEFINED",
-            "sort_order": null,
-            "color": "",
-            "color2": "",
-            "create_date": 1747820970095
         }
     ],
     "tag_map": {
@@ -804,10 +793,7 @@
         "null": [],
         "月咏澪.png": [],
         "性癖大世界.png": [],
-        "超级神壕系统.png": [],
-        "性开放·自由都市.png": [
-            "3fda31d1-7502-495c-9466-a5b2bfb56d2a"
-        ]
+        "超级神壕系统.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
