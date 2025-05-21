@@ -5,11 +5,10 @@
         "LNavOpened": "false",
         "NavOpened": "false",
         "AlertWI_月咏澪.png": "true",
-        "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "SelectedNavTab": "rm_button_characters"
+        "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}"
     },
     "currentVersion": "1.12.14",
-    "username": "若离",
+    "username": "User",
     "active_character": "月咏澪.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
@@ -331,7 +330,7 @@
             "max_additions": 1
         },
         "personas": {
-            "user-default.png": "若离"
+            "user-default.png": "User"
         },
         "default_persona": null,
         "persona_descriptions": {

@@ -201,3 +201,5 @@ presets/instruct/GLM-4.json
 presets/context/GLM-4.json
 presets/reasoning/DeepSeek.json
 presets/reasoning/Blank.json
+presets/context/Pygmalion.json
+presets/instruct/Pygmalion.json
