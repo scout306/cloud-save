@@ -1254,7 +1254,7 @@
                 },
                 {
                     "identifier": "e56b7f0b-83fa-45f0-92c5-1a41d58c176b",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "81ef5c84-6ecd-4240-b0c0-3e8c49c87cd7",
@@ -1262,7 +1262,7 @@
                 },
                 {
                     "identifier": "ca0d6abc-b6f6-4323-89c9-d9babd6d4e75",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "03e9c451-c02d-4ffc-982c-7c85579edfdd",
@@ -1334,7 +1334,7 @@
                 },
                 {
                     "identifier": "7dd83b1a-81e6-431f-bab7-de0bac2cdf49",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "306bcba3-abee-41af-9155-fb32d3cbc97c",
@@ -1346,7 +1346,7 @@
                 },
                 {
                     "identifier": "6ce24c35-28aa-49b5-a264-b6f74ceba30b",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "08406ba1-fa25-4831-b6dc-4c7eb9a8c43e",
@@ -1510,7 +1510,7 @@
                 },
                 {
                     "identifier": "efba5169-9e17-4175-9c58-ea79724d67be",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "050258e2-9585-40b4-b1f4-929ba7ebfc1c",
