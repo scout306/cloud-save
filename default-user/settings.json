@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
@@ -24,11 +24,12 @@
         "AlertWI_school life game.png": "true",
         "mediaWarningShown:龙胆.png": "true",
         "AlertWI_龙胆.png": "true",
-        "AlertRegex_龙胆.png": "true"
+        "AlertRegex_龙胆.png": "true",
+        "AlertWI_如果中国皇室都是龙娘.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "龙胆.png",
+    "active_character": "如果中国皇室都是龙娘.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1091,7 +1092,8 @@
             "095ec78f-3d8b-4c0a-ba07-c0c7fc3e51e8",
             "bbced92f-ed51-40d2-97c5-721976a72ba9",
             "07cfd599-9e7e-4027-b5df-0c178eef6598"
-        ]
+        ],
+        "如果中国皇室都是龙娘.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2371,7 +2373,7 @@
                     },
                     {
                         "identifier": "e56b7f0b-83fa-45f0-92c5-1a41d58c176b",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "81ef5c84-6ecd-4240-b0c0-3e8c49c87cd7",
@@ -2379,7 +2381,7 @@
                     },
                     {
                         "identifier": "ca0d6abc-b6f6-4323-89c9-d9babd6d4e75",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "03e9c451-c02d-4ffc-982c-7c85579edfdd",
