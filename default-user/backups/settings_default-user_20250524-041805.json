@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
@@ -20,12 +20,11 @@
         "AlertRegex_被程明催眠的淫乱世界.png": "true",
         "AlertWI_性即一切的世界.png": "true",
         "AlertWI_苏纤和苏萌.png": "true",
-        "AlertRegex_苏纤和苏萌.png": "true",
-        "AlertWI_school life game.png": "true"
+        "AlertRegex_苏纤和苏萌.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "school life game.png",
+    "active_character": "璇子.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -919,8 +918,7 @@
             "0abd5ec4-9e46-47d0-8ceb-0852fc94a366"
         ],
         "性即一切的世界.png": [],
-        "苏纤和苏萌.png": [],
-        "school life game.png": []
+        "苏纤和苏萌.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
