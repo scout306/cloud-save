@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
@@ -21,11 +21,14 @@
         "AlertWI_性即一切的世界.png": "true",
         "AlertWI_苏纤和苏萌.png": "true",
         "AlertRegex_苏纤和苏萌.png": "true",
-        "AlertWI_school life game.png": "true"
+        "AlertWI_school life game.png": "true",
+        "mediaWarningShown:龙胆.png": "true",
+        "AlertWI_龙胆.png": "true",
+        "AlertRegex_龙胆.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "school life game.png",
+    "active_character": "龙胆.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -397,7 +400,7 @@
         "show_swipe_num_all_messages": false,
         "auto_connect": false,
         "auto_load_chat": false,
-        "forbid_external_media": true,
+        "forbid_external_media": false,
         "external_media_allowed_overrides": [],
         "external_media_forbidden_overrides": [],
         "pin_styles": true,
@@ -622,7 +625,8 @@
             "超级神壕系统.png",
             "卖淫模拟器.png",
             "被程明催眠的淫乱世界.png",
-            "苏纤和苏萌.png"
+            "苏纤和苏萌.png",
+            "龙胆.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -900,6 +904,156 @@
             "color": "",
             "color2": "",
             "create_date": 1747948750473
+        },
+        {
+            "id": "c2d0984a-2305-4613-b287-783fbbc0e53a",
+            "name": "纯爱",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776655
+        },
+        {
+            "id": "a0e80520-2925-45ff-9d84-88ca3355d3ab",
+            "name": "恋爱",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "60475693-66c9-4314-b131-7fae96e49215",
+            "name": "恋人",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "be4e7689-7010-4454-9c7c-34dd96e07420",
+            "name": "洗脑",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "e6b7cb53-c86f-47a8-a760-e4691d82280a",
+            "name": "母乳",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "b91e7d0b-2867-49c3-83b9-9b4f60876ec6",
+            "name": "乳头插入",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "e75c076e-2bd1-4ed9-b039-7d08071f3fe1",
+            "name": "丸吞",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "da502e0d-d2fc-406d-b54f-ecdbac2544a9",
+            "name": "萝莉",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "58876ac2-99e5-491e-b0d3-62e907080fb4",
+            "name": "合法萝莉",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "04cef6de-5024-417c-9ecf-f81ffa917959",
+            "name": "母性",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776656
+        },
+        {
+            "id": "a6805dd9-6985-401e-8cee-9d668e996399",
+            "name": "重女",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776657
+        },
+        {
+            "id": "f8683df6-0965-49de-b417-1b2f1ed85dac",
+            "name": "孤立型病娇",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776657
+        },
+        {
+            "id": "095ec78f-3d8b-4c0a-ba07-c0c7fc3e51e8",
+            "name": "gaslighting",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776657
+        },
+        {
+            "id": "bbced92f-ed51-40d2-97c5-721976a72ba9",
+            "name": "master-love",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776657
+        },
+        {
+            "id": "07cfd599-9e7e-4027-b5df-0c178eef6598",
+            "name": "贵族",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1748031776657
         }
     ],
     "tag_map": {
@@ -920,7 +1074,24 @@
         ],
         "性即一切的世界.png": [],
         "苏纤和苏萌.png": [],
-        "school life game.png": []
+        "school life game.png": [],
+        "龙胆.png": [
+            "c2d0984a-2305-4613-b287-783fbbc0e53a",
+            "a0e80520-2925-45ff-9d84-88ca3355d3ab",
+            "60475693-66c9-4314-b131-7fae96e49215",
+            "be4e7689-7010-4454-9c7c-34dd96e07420",
+            "e6b7cb53-c86f-47a8-a760-e4691d82280a",
+            "b91e7d0b-2867-49c3-83b9-9b4f60876ec6",
+            "e75c076e-2bd1-4ed9-b039-7d08071f3fe1",
+            "da502e0d-d2fc-406d-b54f-ecdbac2544a9",
+            "58876ac2-99e5-491e-b0d3-62e907080fb4",
+            "04cef6de-5024-417c-9ecf-f81ffa917959",
+            "a6805dd9-6985-401e-8cee-9d668e996399",
+            "f8683df6-0965-49de-b417-1b2f1ed85dac",
+            "095ec78f-3d8b-4c0a-ba07-c0c7fc3e51e8",
+            "bbced92f-ed51-40d2-97c5-721976a72ba9",
+            "07cfd599-9e7e-4027-b5df-0c178eef6598"
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
