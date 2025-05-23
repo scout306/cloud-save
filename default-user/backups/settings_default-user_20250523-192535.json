@@ -17,12 +17,11 @@
         "AlertWI_卖淫模拟器.png": "true",
         "AlertRegex_卖淫模拟器.png": "true",
         "AlertWI_被程明催眠的淫乱世界.png": "true",
-        "AlertRegex_被程明催眠的淫乱世界.png": "true",
-        "AlertWI_性即一切的世界.png": "true"
+        "AlertRegex_被程明催眠的淫乱世界.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "性即一切的世界.png",
+    "active_character": "璇子.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -32,9 +31,7 @@
     "main_api": "openai",
     "world_info_settings": {
         "world_info": {
-            "globalSelect": [
-                "油猴世界书nai4 (1)"
-            ]
+            "globalSelect": []
         },
         "world_info_depth": 2,
         "world_info_min_activations": 0,
@@ -915,9 +912,7 @@
         "卖淫模拟器.png": [],
         "被程明催眠的淫乱世界.png": [
             "0abd5ec4-9e46-47d0-8ceb-0852fc94a366"
-        ],
-        "乳牛牧场.png": [],
-        "性即一切的世界.png": []
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
