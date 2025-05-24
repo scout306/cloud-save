@@ -29,7 +29,7 @@
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "龙胆.png",
+    "active_character": "如果中国皇室都是龙娘.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -2373,11 +2373,11 @@
                     },
                     {
                         "identifier": "e56b7f0b-83fa-45f0-92c5-1a41d58c176b",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "81ef5c84-6ecd-4240-b0c0-3e8c49c87cd7",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "ca0d6abc-b6f6-4323-89c9-d9babd6d4e75",
