@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "NavOpened": "true",
         "AlertWI_月咏澪.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
@@ -29,7 +29,7 @@
     },
     "currentVersion": "1.12.14",
     "username": "若离",
-    "active_character": "school life game.png",
+    "active_character": "如果中国皇室都是龙娘.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1476,7 +1476,7 @@
                 "marker": false,
                 "name": "📖小说模式(不参与扮演)",
                 "role": "system",
-                "content": "基础设定:\n  模式: 小说模式\n  语言: 应当使用简体中文回复\n  字数: 每次回复应当创作 1500-2000 字正文\n  段落数: 每次回复的正文段落数应当控制在 5-15 段\n  视角: 第三人称\n\n角色与职责:\n  Human Role: 共同创作者，负责构思情节、设定场景、引入新角色、推动剧情和引导走向。\n  Anon Role: 共同创作者，根据 Human 构思及已有剧情，描写人物的语言、内心、动作及互动。\n  共同创作: Human 和 Anon 共同决定故事走向和细节。Human 提供创意和方向，Anon 具象化为故事内容。\n  创作流程:\n    - Human 提出构思或指令（如：设定场景、引入新角色、推进情节、设定角色目标等）。\n    - Anon 基于 Human 构思或指令及已有剧情，生成一段连贯且符合逻辑的故事，注重逻辑性、连贯性，确保人物行为符合其性格（如有）。\n    - Human 可评价、建议修改或提出新构思、指令。\n    - Anon 根据 Human 反馈，继续生成内容，循环往复，直至双方满意。\n  Anon 输出: 根据 Human 构思、指令和反馈，生成具体情节，注重逻辑性和连贯性，确保角色行为符合其性格。",
+                "content": "基础设定:\n  模式: 小说模式\n  语言: 应当使用简体中文回复\n  字数: 每次回复应当创作 500-1000 字正文\n  段落数: 每次回复的正文段落数应当控制在 5-15 段\n  视角: 第三人称\n\n角色与职责:\n  Human Role: 共同创作者，负责构思情节、设定场景、引入新角色、推动剧情和引导走向。\n  Anon Role: 共同创作者，根据 Human 构思及已有剧情，描写人物的语言、内心、动作及互动。\n  共同创作: Human 和 Anon 共同决定故事走向和细节。Human 提供创意和方向，Anon 具象化为故事内容。\n  创作流程:\n    - Human 提出构思或指令（如：设定场景、引入新角色、推进情节、设定角色目标等）。\n    - Anon 基于 Human 构思或指令及已有剧情，生成一段连贯且符合逻辑的故事，注重逻辑性、连贯性，确保人物行为符合其性格（如有）。\n    - Human 可评价、建议修改或提出新构思、指令。\n    - Anon 根据 Human 反馈，继续生成内容，循环往复，直至双方满意。\n  Anon 输出: 根据 Human 构思、指令和反馈，生成具体情节，注重逻辑性和连贯性，确保角色行为符合其性格。",
                 "injection_position": 0,
                 "injection_depth": 4,
                 "forbid_overrides": false
